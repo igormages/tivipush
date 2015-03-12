@@ -1,6 +1,6 @@
 # TiviPush
 
-Web app permettant l'enrichissement d'un programme TV que vous régardez.
+Web app permettant l'enrichissement d'un programme TV que vous regardez.
 Détection sémantique des tweets en temps réel.
 
 ## License
